@@ -35,7 +35,8 @@ public class Problema01 {
        else           
        {
             Double area = ((baseTriangulo * alturaTriangulo)/2);
-            System.out.printf("Base:\n%.2f\nAltura:\n%.2f\nEl area del triangulo es de: \n%.2f\n8", 
+            System.out.printf("Base:\n%.2f\nAltura:\n%.2f\n"
+                    + "El area del triangulo es de: \n%.2f\n8", 
                     baseTriangulo, 
                     alturaTriangulo, 
                     area);
