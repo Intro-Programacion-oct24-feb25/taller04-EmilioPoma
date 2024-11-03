@@ -37,8 +37,8 @@ public class Problema02 {
        else
        {
            Double costosTotal = (costoHijo1 + costoHijo2 + costoHijo3);
-           System.out.printf("Primer Hijo:\n%.2f\nSegundo Hijo:\n%.2f\n"
-                   + "Tercer Hijo:\n%.2f\nTotal de Costos:\n%.2f\n",
+           System.out.printf("Primer Hijo:\n$%.2f\nSegundo Hijo:\n$%.2f\n"
+                   + "Tercer Hijo:\n$%.2f\nTotal de Costos:\n$%.2f\n",
            costoHijo1,
            costoHijo2,
            costoHijo3,
