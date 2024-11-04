@@ -46,10 +46,10 @@ public class Problema4 {
         {
             double costoTotal = (costoCpu + costoTeclado + costoRaton 
                     + costoPantalla);
-            System.out.printf("\nReporte:\nNombre del cliente:%s\n"
-                    + "Valores Iniciales:\nCPU:$%.2f\nTeclado:$%.2f\n"
-                    + "Raton:$%.2f\nPantalla:$%.2f\n\n"
-                    + "Valor a cancelar:$%.2f\n ", 
+            System.out.printf("\nReporte:\nNombre del cliente: %s\n"
+                    + "Valores Iniciales:\nCPU: $%.2f\nTeclado: $%.2f\n"
+                    + "Raton: $%.2f\nPantalla: $%.2f\n\n"
+                    + "Valor a cancelar: $%.2f\n ", 
                     nombre, 
                     costoCpu,
                     costoTeclado,
